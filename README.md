@@ -1,4 +1,4 @@
 # SkellyGenerator
 Create a skeleton for your IMU based full-body-tracking
 
-#Click 
+# Choose the latest release by selecting "Tag" on the right
