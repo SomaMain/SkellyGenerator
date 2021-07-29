@@ -1,4 +1,6 @@
 # SkellyGenerator
-Create a skeleton for your IMU based full-body-tracking
+Create a skeleton by dragging balls to the joints of your body in Virtual Reality.
 
-Drag balls to each of your joints and save a text file that will hold the 3D position of each joint. This can be read by SomaSensorServer.
+Save as a text file which will hold the XYZ positions of each joint. SomaSensorServer will use this to better align the sensors with your body.
+
+Video: https://www.youtube.com/watch?v=yEHMWs3ymxQ
